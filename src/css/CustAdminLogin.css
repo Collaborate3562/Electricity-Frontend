@@ -1,0 +1,25 @@
+.login-button {
+    margin-left: 75%;
+    margin-right: 75%;
+    margin-top: 5%;
+    background: linear-gradient(45deg, #036677 30%, #1fb4b9 90%);
+    border-radius: 8px;
+    color: white;
+    border: 2px solid rgb(109, 106, 106);
+    font-family: sans-serif;
+    width: 210px;
+    transition: all 0.5s;
+}
+
+.login-button:hover {
+    background-color: linear-gradient(45deg, #f18448 90%);
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(255, 255, 255, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-as {
+    font-family: sans-serif;
+    margin-top: 5%;
+    color: hsl(150, 33%, 99%);
+    margin-left: 75%;
+}

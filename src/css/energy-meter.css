@@ -1,0 +1,34 @@
+.energy-meter-table-title {
+    display: flex;
+    align-items: center;
+}
+
+.energy-meter-table-title h4 {
+    margin-bottom: 0;
+    color: rgba(0, 0, 0, 0.85);
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    position: relative;
+    font-size: 14px;
+    background: #fff;
+    padding: 15px;
+}
+
+.energy-meter-modal-select {
+    margin-bottom: 20px;
+}
+
+.energy-meter-modal-select .ant-select {
+    display: block;
+}
+
+.energy-meter-modal-input {}
+
+.energy-meter-modal-input .ant-input-group {
+    display: flex;
+    align-items: center;
+}
+
+.energy-meter-modal-input .ant-input-group input {
+    width: 100% !important;
+}

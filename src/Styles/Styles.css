@@ -1,0 +1,9 @@
+.electricity {
+    background-image: url("../images/Energy.jpg");
+  }
+
+  
+  .electricity {
+    background-image: url("./images/electricity.jpg");
+  }
+  

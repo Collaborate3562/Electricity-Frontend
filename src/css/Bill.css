@@ -1,0 +1,82 @@
+.text-sm {
+    font-size: smaller;
+}
+
+.left-right-margin {
+    margin-left: 22%;
+    margin-right: 10%;
+}
+
+.line {
+    color: blue;
+}
+
+.button-download {
+    border-radius: 5%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(54, 54, 230);
+    margin-left: 50%;
+    border-color: blue;
+    border: none;
+    padding: 15px 20px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.btn-back {
+    border-radius: 5%;
+    color: rgb(255, 255, 255);
+    background-color: purple;
+    margin-left: 20px;
+    border-color: blue;
+    border: none;
+    padding: 15px 20px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.button-download:hover{
+    background-color: blue;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.btn-back:hover{
+    background-color: purple;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.ant-table-title {
+    padding: 20px 20px;
+    text-align: center;
+}
+
+
+.ant-table {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.85);
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    font-feature-settings: 'tnum';
+    position: relative;
+    font-size: 14px;
+    background: #8c7d1117;
+    border-radius: 2px;
+}
+
+
+.ant-btn-primary {
+    color: #fff;
+    border-color: #1890ff;
+    background: #a4de18;
+    text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
+    box-shadow: 0 2px 0 rgb(0 0 0 / 5%);
+}

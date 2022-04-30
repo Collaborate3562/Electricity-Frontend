@@ -1,0 +1,51 @@
+.text-right {
+    margin-top: 5%;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.float-right {
+    border-radius: 4px;
+    background-color:lightgreen;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-right: 20%;
+}
+.add{
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-left: 70%;
+
+}
+.h1, h1 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+.ant-card-bordered .ant-card-cover {
+    margin-top: -1px;
+    margin-right: -1px;
+    margin-left: -1px;
+    margin-left: 130px;
+}
+
+.ant-card-body {
+    padding: 24px;
+    margin-left: 130px;
+}
+
